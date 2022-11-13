@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Введите число первое число: ");
+﻿Console.WriteLine("Введите первое число: ");
 int A = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите число второе число: ");
+Console.WriteLine("Введите второе число: ");
 int B = Convert.ToInt32(Console.ReadLine());
 if (A == B)
 {
